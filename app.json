@@ -7,7 +7,7 @@
       "package": "com.yourcompany.map",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAVEeI79jB-zMmmpTgOKyikQ1A_vcTKji4"
+          "apiKey": "YOUR_ANDROID_GOOGLE_MAPS_API_KEY"
         }
       }
     }
