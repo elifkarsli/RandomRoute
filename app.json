@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "map",
+    "slug": "map",
+    "entryPoint": "./map.tsx",
+    "android": {
+      "package": "com.yourcompany.map",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAVEeI79jB-zMmmpTgOKyikQ1A_vcTKji4"
+        }
+      }
+    }
+  }
+}
